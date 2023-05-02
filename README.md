@@ -28,6 +28,7 @@
 		</div>
     <div class="feature">
 			<h3>Upload code</h3>
+			The default code is included here under the file named <a href="https://github.com/Babel-Infoc/Breaker-Shard/blob/main/Breaker-Shard.ino">Breaker-Shard.ino</a>
 			<p>When you are ready to upload, plug your Breaker Shard into your computer<br><br>
         &emsp;1. Slide the power switch to Off<br>
         &emsp;2. Press and hold the Boot button<br>
@@ -42,4 +43,3 @@
 	</footer>
 	</div>
 </body>
-</html>
